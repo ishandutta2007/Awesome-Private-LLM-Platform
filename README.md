@@ -45,7 +45,7 @@ These tools form the core ecosystem for private, self-hosted, and fully controll
 
 Sorted by GitHub star count in descending order ⭐.
 
-| Project | Description | Stars | Category / Focus | License |
+| Project | Description | _Stars_Count_ | Category / Focus | License |
 |---------|-------------|-------|------------------|---------|
 | **[Ollama](https://github.com/ollama/ollama)** | Simple, Docker-like tool for running open-source LLMs locally or on servers with an OpenAI-compatible API. | <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Ollama Stars"/></a> | Local Runtime & Serving | MIT |
 | **[llama.cpp](https://github.com/ggerganov/llama.cpp)** | Highly optimized C/C++ inference engine (GGUF format) for CPU, GPU, and edge devices. | <a href="https://github.com/ggerganov/llama.cpp/stargazers"><img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white" alt="llama.cpp Stars"/></a> | C/C++ Inference Engine | MIT |
